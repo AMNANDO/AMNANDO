@@ -47,24 +47,13 @@ Full Stack Developer | Django REST Framework | Computer Engineering Student
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔐 Auth Profile System
-A production-ready Django REST Framework project featuring:
-- JWT Authentication
-- Custom Permissions & Throttling
-- Filtering, Search, Pagination
-- Test-driven development
-- OpenAPI documentation (drf-spectacular)
-
-🔗 [Repository](https://github.com/AMNANDO/auth_profile_system)
-
-
----
-
 ## 📫 How to reach me: 
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?logo=gmail)](mailto:amnando.bs@gmail.com)
+
+[![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-2CA5E0?logo=telegram&logoColor=white)](https://t.me/AM_NANDO)
+
+
 
 ---
 
