@@ -68,7 +68,4 @@ A production-ready Django REST Framework project featuring:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMNANDO&show_icons=true&theme=dark)
 
