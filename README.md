@@ -8,7 +8,7 @@ Full Stack Developer | Django REST Framework | Computer Engineering Student
 
 ---
 
-### Tools & Languages &Skills
+### Tools & Languages & Skills
 
 
 ### Frontend
