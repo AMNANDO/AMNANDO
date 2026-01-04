@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  Full Stack developer and Computer Engineering Student
+Full Stack Developer | Django REST Framework | Computer Engineering Student
 </p>
 
 ---
@@ -18,14 +18,48 @@
 
 ### Backend
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,mysql,postgres,mongo">
+    <img src="https://skillicons.dev/icons?i=python,django,mysql,postgres,mongo,redis">
 </div>
 
 ### Tools
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,postman,docker,nginx">
     <br>
-    <img src="https://skillicons.dev/icons?i=linux,bash,redis,regex">
+    <img src="https://skillicons.dev/icons?i=linux,bash,regex">
 </div>
 
 ---
+
+## 📌 Current Focus
+
+- Designing scalable APIs with Django REST Framework
+- Writing maintainable & isolated tests
+- Improving API security, throttling, and performance
+  
+---
+
+## Currently Learning
+<div>
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nextjs,nestjs">
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Auth Profile System
+A production-ready Django REST Framework project featuring:
+- JWT Authentication
+- Custom Permissions & Throttling
+- Filtering, Search, Pagination
+- Test-driven development
+- OpenAPI documentation (drf-spectacular)
+
+🔗 [Repository](https://github.com/AMNANDO/auth_profile_system)
+
+
+---
+
+## 📫 How to reach me: 
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?logo=gmail)](mailto:amnando.bs@gmail.com)
