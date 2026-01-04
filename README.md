@@ -39,6 +39,8 @@ Full Stack Developer | Django REST Framework | Computer Engineering Student
 ---
 
 ## Currently Learning
+- Backend with Node.js (Express, NestJS)
+- Frontend with Next.js (SSR & App Router)
 <div>
     <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nextjs,nestjs">
 </div>
@@ -63,3 +65,10 @@ A production-ready Django REST Framework project featuring:
 ## 📫 How to reach me: 
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?logo=gmail)](mailto:amnando.bs@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMNANDO&show_icons=true&theme=dark)
+
